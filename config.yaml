@@ -1,0 +1,5 @@
+train : /Users/ajithreddy/Desktop/IIITH/images/train 
+val : /Users/ajithreddy/Desktop/IIITH/images/train
+
+names:
+  0 : helmet

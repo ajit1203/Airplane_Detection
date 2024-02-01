@@ -1,0 +1,2 @@
+yolo task=detect mode=train epochs=100 data=config.yaml model=yolov8m.pt
+
